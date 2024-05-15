@@ -15,3 +15,6 @@
 ![image](https://github.com/anulabgit/OpenGL-C-/assets/127391777/8987e749-4341-49b7-a504-8e315caca2cf)
 ![image](https://github.com/anulabgit/OpenGL-C-/assets/127391777/017ceea8-4123-4bd5-8d4d-a879b5239576)
 
+6.올라간 코드를 따라 치거나 복사하여 실행한다<br>
+
+결과화면
