@@ -18,3 +18,6 @@
 6.올라간 코드를 따라 치거나 복사하여 실행한다<br>
 
 결과화면
+
+https://github.com/anulabgit/OpenGL-C-/assets/127391777/427430fa-dbc0-49c4-abee-1472667be5ca
+
