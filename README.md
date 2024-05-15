@@ -1,4 +1,4 @@
-1.파일을 다음과 같이 만듧니다.<br>
+1.Project1 파일을 다음과 같이 만듧니다.<br>
 ![image](https://github.com/anulabgit/OpenGL-C-/assets/127391777/3848b817-dbe2-439b-8650-f9341cf2630d)
 
 2.Project1\lib에 다음과 같은 라이브러리를 넣어줍니다.<br>
